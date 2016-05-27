@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 """
-Author: David Wolinsky
+Original Author: David Wolinsky
 Version: 0.02
+Modified Version Author: Dhananjay Kumar 
+
 
 Description:
 The XmlRpc API for this library is:

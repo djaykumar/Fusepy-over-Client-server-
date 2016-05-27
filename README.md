@@ -5,6 +5,7 @@
 #Filesystem.py- python file that contains the function calls of the filesystem
 #Data and metadata of every file and directory is stored in separate servers called data server and meta server
 #Filesystem.py runs on client, Dataserver.py runs on data servers and metaserver.py runs on metaservers
+The server implementations are modified versions of SimpleHT implementations
 #There are multiple dataservers and a single metaserver. Filesystem.py accesses filesystem data and metadata through RPC's (remote procedure calls)
 #populate.py is used for populating the filesystem
 #run_3servers.py is used for running 3 dataservers and 1 metaserver
